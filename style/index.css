@@ -18,4 +18,14 @@ h1 {
 body {
     background-image: url(../images/Helig.jpg);
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    width: 200px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: rgb(2, 4, 4);
 }
