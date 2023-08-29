@@ -1,3 +1,21 @@
 h1 {
     color: pink;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: inherit;
+    text-align: center;
+    background-color: rgb(247, 109, 132);
+}
+
+#trams {
+    color: rgb(173, 138, 138);
+}
+
+.en-helig-katt {
+    color: blue;
+}
+
+body {
+    background-image: url(../images/Helig.jpg);
+    background-size: cover;
 }
