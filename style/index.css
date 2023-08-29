@@ -25,7 +25,11 @@ body {
 
 img {
     width: 200px;
+    opacity: 0.5;
     border-width: 5px;
     border-style: dotted;
     border-color: rgb(2, 4, 4);
+    border-bottom: 5px solid pink;
+    border-radius: 50%;
+    box-shadow: 5px 5px 60px black;
 }
